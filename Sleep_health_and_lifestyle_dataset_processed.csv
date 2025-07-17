@@ -1,0 +1,375 @@
+Person ID,Gender,Age,Occupation,Sleep_Duration,Sleep_Quality,Stress_Level,BMI_Category,Heart_Rate,Sleep_Disorder,BP_Category,Daily_Steps_Group,Physical_Activity_Group,Sleep_Duration_Group,Heart_Rate_Group,Stress_Level_Group
+1,Male,27,Engineer,6.1,2,6,Overweight,77,None,Normal,<5000,Low Intensity,6-6.5,75-80,4
+2,Male,28,Medical,6.2,2,8,Normal,75,None,Normal,>=10000,Moderate Intensity,6-6.5,70-75,6
+3,Male,28,Medical,6.2,2,8,Normal,75,None,Normal,>=10000,Moderate Intensity,6-6.5,70-75,6
+4,Male,28,Sales,5.9,1,8,Obese,85,Sleep Apnea,Hypertension,<5000,Low Intensity,~6,80-85,6
+5,Male,28,Sales,5.9,1,8,Obese,85,Sleep Apnea,Hypertension,<5000,Low Intensity,~6,80-85,6
+6,Male,28,Engineer,5.9,1,8,Obese,85,Insomnia,Hypertension,<5000,Low Intensity,~6,80-85,6
+7,Male,29,Other,6.3,2,7,Obese,82,Insomnia,Hypertension,<5000,Low Intensity,6-6.5,80-85,5
+8,Male,29,Medical,7.8,2,6,Normal,70,None,Normal,7500~9999,Moderate Intensity,7.5-8,~70,4
+9,Male,29,Medical,7.8,2,6,Normal,70,None,Normal,7500~9999,Moderate Intensity,7.5-8,~70,4
+10,Male,29,Medical,7.8,2,6,Normal,70,None,Normal,7500~9999,Moderate Intensity,7.5-8,~70,4
+11,Male,29,Medical,6.1,2,8,Normal,70,None,Normal,7500~9999,Low Intensity,6-6.5,~70,6
+12,Male,29,Medical,7.8,2,6,Normal,70,None,Normal,7500~9999,Moderate Intensity,7.5-8,~70,4
+13,Male,29,Medical,6.1,2,8,Normal,70,None,Normal,7500~9999,Low Intensity,6-6.5,~70,6
+14,Male,29,Medical,6.0,2,8,Normal,70,None,Normal,7500~9999,Low Intensity,~6,~70,6
+15,Male,29,Medical,6.0,2,8,Normal,70,None,Normal,7500~9999,Low Intensity,~6,~70,6
+16,Male,29,Medical,6.0,2,8,Normal,70,None,Normal,7500~9999,Low Intensity,~6,~70,6
+17,Female,29,Medical,6.5,1,7,Normal,80,Sleep Apnea,Normal,<5000,Low Intensity,6-6.5,75-80,5
+18,Male,29,Medical,6.0,2,8,Normal,70,Sleep Apnea,Normal,7500~9999,Low Intensity,~6,~70,6
+19,Female,29,Medical,6.5,1,7,Normal,80,Insomnia,Normal,<5000,Low Intensity,6-6.5,75-80,5
+20,Male,30,Medical,7.6,2,6,Normal,70,None,Normal,7500~9999,Moderate Intensity,7.5-8,~70,4
+21,Male,30,Medical,7.7,2,6,Normal,70,None,Normal,7500~9999,Moderate Intensity,7.5-8,~70,4
+22,Male,30,Medical,7.7,2,6,Normal,70,None,Normal,7500~9999,Moderate Intensity,7.5-8,~70,4
+23,Male,30,Medical,7.7,2,6,Normal,70,None,Normal,7500~9999,Moderate Intensity,7.5-8,~70,4
+24,Male,30,Medical,7.7,2,6,Normal,70,None,Normal,7500~9999,Moderate Intensity,7.5-8,~70,4
+25,Male,30,Medical,7.8,2,6,Normal,70,None,Normal,7500~9999,Moderate Intensity,7.5-8,~70,4
+26,Male,30,Medical,7.9,2,6,Normal,70,None,Normal,7500~9999,Moderate Intensity,7.5-8,~70,4
+27,Male,30,Medical,7.8,2,6,Normal,70,None,Normal,7500~9999,Moderate Intensity,7.5-8,~70,4
+28,Male,30,Medical,7.9,2,6,Normal,70,None,Normal,7500~9999,Moderate Intensity,7.5-8,~70,4
+29,Male,30,Medical,7.9,2,6,Normal,70,None,Normal,7500~9999,Moderate Intensity,7.5-8,~70,4
+30,Male,30,Medical,7.9,2,6,Normal,70,None,Normal,7500~9999,Moderate Intensity,7.5-8,~70,4
+31,Female,30,Medical,6.4,1,7,Normal,78,Sleep Apnea,Normal,<5000,Low Intensity,6-6.5,75-80,5
+32,Female,30,Medical,6.4,1,7,Normal,78,Insomnia,Normal,<5000,Low Intensity,6-6.5,75-80,5
+33,Female,31,Medical,7.9,3,4,Normal,69,None,Optimal,5000~7499,Moderate Intensity,7.5-8,~70,2
+34,Male,31,Medical,6.1,2,8,Normal,72,None,Normal,5000~7499,Low Intensity,6-6.5,70-75,6
+35,Male,31,Medical,7.7,2,6,Normal,70,None,Normal,7500~9999,Moderate Intensity,7.5-8,~70,4
+36,Male,31,Medical,6.1,2,8,Normal,72,None,Normal,5000~7499,Low Intensity,6-6.5,70-75,6
+37,Male,31,Medical,6.1,2,8,Normal,72,None,Normal,5000~7499,Low Intensity,6-6.5,70-75,6
+38,Male,31,Medical,7.6,2,6,Normal,70,None,Normal,7500~9999,Moderate Intensity,7.5-8,~70,4
+39,Male,31,Medical,7.6,2,6,Normal,70,None,Normal,7500~9999,Moderate Intensity,7.5-8,~70,4
+40,Male,31,Medical,7.6,2,6,Normal,70,None,Normal,7500~9999,Moderate Intensity,7.5-8,~70,4
+41,Male,31,Medical,7.7,2,6,Normal,70,None,Normal,7500~9999,Moderate Intensity,7.5-8,~70,4
+42,Male,31,Medical,7.7,2,6,Normal,70,None,Normal,7500~9999,Moderate Intensity,7.5-8,~70,4
+43,Male,31,Medical,7.7,2,6,Normal,70,None,Normal,7500~9999,Moderate Intensity,7.5-8,~70,4
+44,Male,31,Medical,7.8,2,6,Normal,70,None,Normal,7500~9999,Moderate Intensity,7.5-8,~70,4
+45,Male,31,Medical,7.7,2,6,Normal,70,None,Normal,7500~9999,Moderate Intensity,7.5-8,~70,4
+46,Male,31,Medical,7.8,2,6,Normal,70,None,Normal,7500~9999,Moderate Intensity,7.5-8,~70,4
+47,Male,31,Medical,7.7,2,6,Normal,70,None,Normal,7500~9999,Moderate Intensity,7.5-8,~70,4
+48,Male,31,Medical,7.8,2,6,Normal,70,None,Normal,7500~9999,Moderate Intensity,7.5-8,~70,4
+49,Male,31,Medical,7.7,2,6,Normal,70,None,Normal,7500~9999,Moderate Intensity,7.5-8,~70,4
+50,Male,31,Medical,7.7,2,6,Normal,70,Sleep Apnea,Normal,7500~9999,Moderate Intensity,7.5-8,~70,4
+51,Male,32,Engineer,7.5,3,3,Normal,70,None,Normal,7500~9999,Low Intensity,7-7.5,~70,1
+52,Male,32,Engineer,7.5,3,3,Normal,70,None,Normal,7500~9999,Low Intensity,7-7.5,~70,1
+53,Male,32,Medical,6.0,2,8,Normal,72,None,Normal,5000~7499,Low Intensity,~6,70-75,6
+54,Male,32,Medical,7.6,2,6,Normal,70,None,Normal,7500~9999,Moderate Intensity,7.5-8,~70,4
+55,Male,32,Medical,6.0,2,8,Normal,72,None,Normal,5000~7499,Low Intensity,~6,70-75,6
+56,Male,32,Medical,6.0,2,8,Normal,72,None,Normal,5000~7499,Low Intensity,~6,70-75,6
+57,Male,32,Medical,7.7,2,6,Normal,70,None,Normal,7500~9999,Moderate Intensity,7.5-8,~70,4
+58,Male,32,Medical,6.0,2,8,Normal,72,None,Normal,5000~7499,Low Intensity,~6,70-75,6
+59,Male,32,Medical,6.0,2,8,Normal,72,None,Normal,5000~7499,Low Intensity,~6,70-75,6
+60,Male,32,Medical,7.7,2,6,Normal,70,None,Normal,7500~9999,Moderate Intensity,7.5-8,~70,4
+61,Male,32,Medical,6.0,2,8,Normal,72,None,Normal,5000~7499,Low Intensity,~6,70-75,6
+62,Male,32,Medical,6.0,2,8,Normal,72,None,Normal,5000~7499,Low Intensity,~6,70-75,6
+63,Male,32,Medical,6.2,2,8,Normal,72,None,Normal,5000~7499,Low Intensity,6-6.5,70-75,6
+64,Male,32,Medical,6.2,2,8,Normal,72,None,Normal,5000~7499,Low Intensity,6-6.5,70-75,6
+65,Male,32,Medical,6.2,2,8,Normal,72,None,Normal,5000~7499,Low Intensity,6-6.5,70-75,6
+66,Male,32,Medical,6.2,2,8,Normal,72,None,Normal,5000~7499,Low Intensity,6-6.5,70-75,6
+67,Male,32,Other,7.2,3,6,Normal,68,None,Optimal,5000~7499,Moderate Intensity,7-7.5,~70,4
+68,Male,33,Medical,6.0,2,8,Normal,72,Insomnia,Normal,5000~7499,Low Intensity,~6,70-75,6
+69,Female,33,Engineer,6.2,2,6,Overweight,76,None,Normal,5000~7499,Moderate Intensity,6-6.5,75-80,4
+70,Female,33,Engineer,6.2,2,6,Overweight,76,None,Normal,5000~7499,Moderate Intensity,6-6.5,75-80,4
+71,Male,33,Medical,6.1,2,8,Normal,72,None,Normal,5000~7499,Low Intensity,6-6.5,70-75,6
+72,Male,33,Medical,6.1,2,8,Normal,72,None,Normal,5000~7499,Low Intensity,6-6.5,70-75,6
+73,Male,33,Medical,6.1,2,8,Normal,72,None,Normal,5000~7499,Low Intensity,6-6.5,70-75,6
+74,Male,33,Medical,6.1,2,8,Normal,72,None,Normal,5000~7499,Low Intensity,6-6.5,70-75,6
+75,Male,33,Medical,6.0,2,8,Normal,72,None,Normal,5000~7499,Low Intensity,~6,70-75,6
+76,Male,33,Medical,6.0,2,8,Normal,72,None,Normal,5000~7499,Low Intensity,~6,70-75,6
+77,Male,33,Medical,6.0,2,8,Normal,72,None,Normal,5000~7499,Low Intensity,~6,70-75,6
+78,Male,33,Medical,6.0,2,8,Normal,72,None,Normal,5000~7499,Low Intensity,~6,70-75,6
+79,Male,33,Medical,6.0,2,8,Normal,72,None,Normal,5000~7499,Low Intensity,~6,70-75,6
+80,Male,33,Medical,6.0,2,8,Normal,72,None,Normal,5000~7499,Low Intensity,~6,70-75,6
+81,Female,34,Engineer,5.8,1,8,Overweight,81,Sleep Apnea,Normal,5000~7499,Low Intensity,~6,80-85,6
+82,Female,34,Engineer,5.8,1,8,Overweight,81,Sleep Apnea,Normal,5000~7499,Low Intensity,~6,80-85,6
+83,Male,35,Other,6.7,2,5,Overweight,70,None,Normal,5000~7499,Low Intensity,6.5-7,~70,3
+84,Male,35,Other,6.7,2,5,Overweight,70,None,Normal,5000~7499,Low Intensity,6.5-7,~70,3
+85,Male,35,Engineer,7.5,3,5,Normal,70,None,Normal,7500~9999,Moderate Intensity,7-7.5,~70,3
+86,Female,35,Other,7.2,3,4,Normal,68,None,Optimal,5000~7499,Moderate Intensity,7-7.5,~70,2
+87,Male,35,Engineer,7.2,3,4,Normal,65,None,Normal,5000~7499,Moderate Intensity,7-7.5,~70,2
+88,Male,35,Engineer,7.2,3,4,Normal,65,None,Normal,5000~7499,Moderate Intensity,7-7.5,~70,2
+89,Male,35,Engineer,7.3,3,4,Normal,65,None,Normal,5000~7499,Moderate Intensity,7-7.5,~70,2
+90,Male,35,Engineer,7.3,3,4,Normal,65,None,Normal,5000~7499,Moderate Intensity,7-7.5,~70,2
+91,Male,35,Engineer,7.3,3,4,Normal,65,None,Normal,5000~7499,Moderate Intensity,7-7.5,~70,2
+92,Male,35,Engineer,7.3,3,4,Normal,65,None,Normal,5000~7499,Moderate Intensity,7-7.5,~70,2
+93,Male,35,Engineer,7.5,3,5,Normal,70,None,Normal,7500~9999,Moderate Intensity,7-7.5,~70,3
+94,Male,35,Other,7.4,2,5,Obese,84,Sleep Apnea,Normal,<5000,Moderate Intensity,7-7.5,80-85,3
+95,Female,36,Other,7.2,3,4,Normal,68,Insomnia,Optimal,5000~7499,Moderate Intensity,7-7.5,~70,2
+96,Female,36,Other,7.1,3,4,Normal,68,None,Optimal,5000~7499,Moderate Intensity,7-7.5,~70,2
+97,Female,36,Other,7.2,3,4,Normal,68,None,Optimal,5000~7499,Moderate Intensity,7-7.5,~70,2
+98,Female,36,Other,7.1,3,4,Normal,68,None,Optimal,5000~7499,Moderate Intensity,7-7.5,~70,2
+99,Female,36,Other,7.1,3,4,Normal,68,None,Optimal,5000~7499,Moderate Intensity,7-7.5,~70,2
+100,Female,36,Other,7.1,3,4,Normal,68,None,Optimal,5000~7499,Moderate Intensity,7-7.5,~70,2
+101,Female,36,Other,7.2,3,4,Normal,68,None,Optimal,5000~7499,Moderate Intensity,7-7.5,~70,2
+102,Female,36,Other,7.2,3,4,Normal,68,None,Optimal,5000~7499,Moderate Intensity,7-7.5,~70,2
+103,Female,36,Other,7.2,3,4,Normal,68,None,Optimal,5000~7499,Moderate Intensity,7-7.5,~70,2
+104,Male,36,Other,6.6,1,7,Overweight,74,Sleep Apnea,Normal,<5000,Low Intensity,6.5-7,70-75,5
+105,Female,36,Other,7.2,3,4,Normal,68,Sleep Apnea,Optimal,5000~7499,Moderate Intensity,7-7.5,~70,2
+106,Male,36,Other,6.6,1,7,Overweight,74,Insomnia,Normal,<5000,Low Intensity,6.5-7,70-75,5
+107,Female,37,Medical,6.1,2,6,Overweight,77,None,Normal,<5000,Low Intensity,6-6.5,75-80,4
+108,Male,37,Engineer,7.8,3,4,Normal,68,None,Normal,5000~7499,Moderate Intensity,7.5-8,~70,2
+109,Male,37,Engineer,7.8,3,4,Normal,68,None,Normal,5000~7499,Moderate Intensity,7.5-8,~70,2
+110,Male,37,Other,7.4,3,5,Normal,68,None,Normal,7500~9999,Moderate Intensity,7-7.5,~70,3
+111,Female,37,Other,7.2,3,4,Normal,68,None,Optimal,5000~7499,Moderate Intensity,7-7.5,~70,2
+112,Male,37,Other,7.4,3,5,Normal,68,None,Normal,7500~9999,Moderate Intensity,7-7.5,~70,3
+113,Female,37,Other,7.2,3,4,Normal,68,None,Optimal,5000~7499,Moderate Intensity,7-7.5,~70,2
+114,Male,37,Other,7.4,3,5,Normal,68,None,Normal,7500~9999,Moderate Intensity,7-7.5,~70,3
+115,Female,37,Other,7.2,3,4,Normal,68,None,Optimal,5000~7499,Moderate Intensity,7-7.5,~70,2
+116,Female,37,Other,7.2,3,4,Normal,68,None,Optimal,5000~7499,Moderate Intensity,7-7.5,~70,2
+117,Female,37,Other,7.2,3,4,Normal,68,None,Optimal,5000~7499,Moderate Intensity,7-7.5,~70,2
+118,Female,37,Other,7.2,3,4,Normal,68,None,Optimal,5000~7499,Moderate Intensity,7-7.5,~70,2
+119,Female,37,Other,7.2,3,4,Normal,68,None,Optimal,5000~7499,Moderate Intensity,7-7.5,~70,2
+120,Female,37,Other,7.2,3,4,Normal,68,None,Optimal,5000~7499,Moderate Intensity,7-7.5,~70,2
+121,Female,37,Other,7.2,3,4,Normal,68,None,Optimal,5000~7499,Moderate Intensity,7-7.5,~70,2
+122,Female,37,Other,7.2,3,4,Normal,68,None,Optimal,5000~7499,Moderate Intensity,7-7.5,~70,2
+123,Female,37,Other,7.2,3,4,Normal,68,None,Optimal,5000~7499,Moderate Intensity,7-7.5,~70,2
+124,Female,37,Other,7.2,3,4,Normal,68,None,Optimal,5000~7499,Moderate Intensity,7-7.5,~70,2
+125,Female,37,Other,7.2,3,4,Normal,68,None,Optimal,5000~7499,Moderate Intensity,7-7.5,~70,2
+126,Female,37,Medical,7.5,3,4,Normal,70,None,Normal,7500~9999,Moderate Intensity,7-7.5,~70,2
+127,Male,38,Other,7.3,3,5,Normal,68,None,Normal,7500~9999,Moderate Intensity,7-7.5,~70,3
+128,Female,38,Other,7.1,3,4,Normal,68,None,Optimal,5000~7499,Moderate Intensity,7-7.5,~70,2
+129,Male,38,Other,7.3,3,5,Normal,68,None,Normal,7500~9999,Moderate Intensity,7-7.5,~70,3
+130,Male,38,Other,7.3,3,5,Normal,68,None,Normal,7500~9999,Moderate Intensity,7-7.5,~70,3
+131,Female,38,Other,7.1,3,4,Normal,68,None,Optimal,5000~7499,Moderate Intensity,7-7.5,~70,2
+132,Male,38,Other,7.3,3,5,Normal,68,None,Normal,7500~9999,Moderate Intensity,7-7.5,~70,3
+133,Male,38,Other,7.3,3,5,Normal,68,None,Normal,7500~9999,Moderate Intensity,7-7.5,~70,3
+134,Female,38,Other,7.1,3,4,Normal,68,None,Optimal,5000~7499,Moderate Intensity,7-7.5,~70,2
+135,Male,38,Other,7.3,3,5,Normal,68,None,Normal,7500~9999,Moderate Intensity,7-7.5,~70,3
+136,Male,38,Other,7.3,3,5,Normal,68,None,Normal,7500~9999,Moderate Intensity,7-7.5,~70,3
+137,Female,38,Other,7.1,3,4,Normal,68,None,Optimal,5000~7499,Moderate Intensity,7-7.5,~70,2
+138,Male,38,Other,7.1,3,5,Normal,68,None,Normal,7500~9999,Moderate Intensity,7-7.5,~70,3
+139,Female,38,Other,7.1,3,4,Normal,68,None,Optimal,5000~7499,Moderate Intensity,7-7.5,~70,2
+140,Male,38,Other,7.1,3,5,Normal,68,None,Normal,7500~9999,Moderate Intensity,7-7.5,~70,3
+141,Female,38,Other,7.1,3,4,Normal,68,None,Optimal,5000~7499,Moderate Intensity,7-7.5,~70,2
+142,Male,38,Other,7.1,3,5,Normal,68,None,Normal,7500~9999,Moderate Intensity,7-7.5,~70,3
+143,Female,38,Other,7.1,3,4,Normal,68,None,Optimal,5000~7499,Moderate Intensity,7-7.5,~70,2
+144,Female,38,Other,7.1,3,4,Normal,68,None,Optimal,5000~7499,Moderate Intensity,7-7.5,~70,2
+145,Male,38,Other,7.1,3,5,Normal,68,Sleep Apnea,Normal,7500~9999,Moderate Intensity,7-7.5,~70,3
+146,Female,38,Other,7.4,2,5,Obese,84,Sleep Apnea,Normal,<5000,Moderate Intensity,7-7.5,80-85,3
+147,Male,39,Other,7.2,3,5,Normal,68,Insomnia,Normal,7500~9999,Moderate Intensity,7-7.5,~70,3
+148,Male,39,Engineer,6.5,1,7,Overweight,80,Insomnia,Normal,<5000,Low Intensity,6-6.5,75-80,5
+149,Female,39,Other,6.9,2,6,Normal,75,None,Normal,5000~7499,Moderate Intensity,6.5-7,70-75,4
+150,Female,39,Other,8.0,3,3,Normal,67,None,Optimal,7500~9999,High Intensity,7.5-8,~70,1
+151,Female,39,Other,8.0,3,3,Normal,67,None,Optimal,7500~9999,High Intensity,7.5-8,~70,1
+152,Male,39,Other,7.2,3,5,Normal,68,None,Normal,7500~9999,Moderate Intensity,7-7.5,~70,3
+153,Male,39,Other,7.2,3,5,Normal,68,None,Normal,7500~9999,Moderate Intensity,7-7.5,~70,3
+154,Male,39,Other,7.2,3,5,Normal,68,None,Normal,7500~9999,Moderate Intensity,7-7.5,~70,3
+155,Male,39,Other,7.2,3,5,Normal,68,None,Normal,7500~9999,Moderate Intensity,7-7.5,~70,3
+156,Male,39,Other,7.2,3,5,Normal,68,None,Normal,7500~9999,Moderate Intensity,7-7.5,~70,3
+157,Male,39,Other,7.2,3,5,Normal,68,None,Normal,7500~9999,Moderate Intensity,7-7.5,~70,3
+158,Male,39,Other,7.2,3,5,Normal,68,None,Normal,7500~9999,Moderate Intensity,7-7.5,~70,3
+159,Male,39,Other,7.2,3,5,Normal,68,None,Normal,7500~9999,Moderate Intensity,7-7.5,~70,3
+160,Male,39,Other,7.2,3,5,Normal,68,None,Normal,7500~9999,Moderate Intensity,7-7.5,~70,3
+161,Male,39,Other,7.2,3,5,Normal,68,None,Normal,7500~9999,Moderate Intensity,7-7.5,~70,3
+162,Female,40,Other,7.2,3,6,Normal,73,None,Optimal,5000~7499,Moderate Intensity,7-7.5,70-75,4
+163,Female,40,Other,7.2,3,6,Normal,73,None,Optimal,5000~7499,Moderate Intensity,7-7.5,70-75,4
+164,Male,40,Other,7.9,3,5,Normal,68,None,Normal,7500~9999,High Intensity,7.5-8,~70,3
+165,Male,40,Other,7.9,3,5,Normal,68,None,Normal,7500~9999,High Intensity,7.5-8,~70,3
+166,Male,41,Other,7.6,3,5,Normal,70,Insomnia,Normal,7500~9999,High Intensity,7.5-8,~70,3
+167,Male,41,Engineer,7.3,3,6,Normal,72,None,Normal,5000~7499,Moderate Intensity,7-7.5,70-75,4
+168,Male,41,Other,7.1,2,6,Overweight,72,None,Normal,5000~7499,Moderate Intensity,7-7.5,70-75,4
+169,Male,41,Other,7.1,2,6,Overweight,72,None,Normal,5000~7499,Moderate Intensity,7-7.5,70-75,4
+170,Male,41,Other,7.7,3,5,Normal,70,None,Normal,7500~9999,High Intensity,7.5-8,~70,3
+171,Male,41,Other,7.7,3,5,Normal,70,None,Normal,7500~9999,High Intensity,7.5-8,~70,3
+172,Male,41,Other,7.7,3,5,Normal,70,None,Normal,7500~9999,High Intensity,7.5-8,~70,3
+173,Male,41,Other,7.7,3,5,Normal,70,None,Normal,7500~9999,High Intensity,7.5-8,~70,3
+174,Male,41,Other,7.7,3,5,Normal,70,None,Normal,7500~9999,High Intensity,7.5-8,~70,3
+175,Male,41,Other,7.6,3,5,Normal,70,None,Normal,7500~9999,High Intensity,7.5-8,~70,3
+176,Male,41,Other,7.6,3,5,Normal,70,None,Normal,7500~9999,High Intensity,7.5-8,~70,3
+177,Male,41,Other,7.6,3,5,Normal,70,None,Normal,7500~9999,High Intensity,7.5-8,~70,3
+178,Male,42,Sales,6.5,2,7,Overweight,72,Insomnia,Normal,5000~7499,Low Intensity,6-6.5,70-75,5
+179,Male,42,Other,7.8,3,5,Normal,70,None,Normal,7500~9999,High Intensity,7.5-8,~70,3
+180,Male,42,Other,7.8,3,5,Normal,70,None,Normal,7500~9999,High Intensity,7.5-8,~70,3
+181,Male,42,Other,7.8,3,5,Normal,70,None,Normal,7500~9999,High Intensity,7.5-8,~70,3
+182,Male,42,Other,7.8,3,5,Normal,70,None,Normal,7500~9999,High Intensity,7.5-8,~70,3
+183,Male,42,Other,7.8,3,5,Normal,70,None,Normal,7500~9999,High Intensity,7.5-8,~70,3
+184,Male,42,Other,7.8,3,5,Normal,70,None,Normal,7500~9999,High Intensity,7.5-8,~70,3
+185,Female,42,Other,6.8,2,7,Overweight,78,Sleep Apnea,Normal,5000~7499,Low Intensity,6.5-7,75-80,5
+186,Female,42,Other,6.8,2,7,Overweight,78,Sleep Apnea,Normal,5000~7499,Low Intensity,6.5-7,75-80,5
+187,Female,43,Other,6.7,2,4,Overweight,65,Insomnia,Hypertension,5000~7499,Low Intensity,6.5-7,~70,2
+188,Male,43,Sales,6.3,2,7,Overweight,72,Insomnia,Normal,5000~7499,Low Intensity,6-6.5,70-75,5
+189,Female,43,Other,6.7,2,4,Overweight,65,Insomnia,Hypertension,5000~7499,Low Intensity,6.5-7,~70,2
+190,Male,43,Sales,6.5,2,7,Overweight,72,Insomnia,Normal,5000~7499,Low Intensity,6-6.5,70-75,5
+191,Female,43,Other,6.7,2,4,Overweight,65,Insomnia,Hypertension,5000~7499,Low Intensity,6.5-7,~70,2
+192,Male,43,Sales,6.4,2,7,Overweight,72,Insomnia,Normal,5000~7499,Low Intensity,6-6.5,70-75,5
+193,Male,43,Sales,6.5,2,7,Overweight,72,Insomnia,Normal,5000~7499,Low Intensity,6-6.5,70-75,5
+194,Male,43,Sales,6.5,2,7,Overweight,72,Insomnia,Normal,5000~7499,Low Intensity,6-6.5,70-75,5
+195,Male,43,Sales,6.5,2,7,Overweight,72,Insomnia,Normal,5000~7499,Low Intensity,6-6.5,70-75,5
+196,Male,43,Sales,6.5,2,7,Overweight,72,Insomnia,Normal,5000~7499,Low Intensity,6-6.5,70-75,5
+197,Male,43,Sales,6.5,2,7,Overweight,72,Insomnia,Normal,5000~7499,Low Intensity,6-6.5,70-75,5
+198,Male,43,Sales,6.5,2,7,Overweight,72,Insomnia,Normal,5000~7499,Low Intensity,6-6.5,70-75,5
+199,Male,43,Sales,6.5,2,7,Overweight,72,Insomnia,Normal,5000~7499,Low Intensity,6-6.5,70-75,5
+200,Male,43,Sales,6.5,2,7,Overweight,72,Insomnia,Normal,5000~7499,Low Intensity,6-6.5,70-75,5
+201,Male,43,Sales,6.5,2,7,Overweight,72,Insomnia,Normal,5000~7499,Low Intensity,6-6.5,70-75,5
+202,Male,43,Engineer,7.8,3,5,Normal,70,Insomnia,Normal,7500~9999,High Intensity,7.5-8,~70,3
+203,Male,43,Engineer,7.8,3,5,Normal,70,Insomnia,Normal,7500~9999,High Intensity,7.5-8,~70,3
+204,Male,43,Engineer,6.9,2,7,Normal,69,None,Optimal,5000~7499,Low Intensity,6.5-7,~70,5
+205,Male,43,Engineer,7.6,3,4,Overweight,68,None,Normal,5000~7499,Moderate Intensity,7.5-8,~70,2
+206,Male,43,Engineer,7.7,3,5,Normal,70,None,Normal,7500~9999,High Intensity,7.5-8,~70,3
+207,Male,43,Engineer,7.7,3,5,Normal,70,None,Normal,7500~9999,High Intensity,7.5-8,~70,3
+208,Male,43,Engineer,7.7,3,5,Normal,70,None,Normal,7500~9999,High Intensity,7.5-8,~70,3
+209,Male,43,Engineer,7.7,3,5,Normal,70,None,Normal,7500~9999,High Intensity,7.5-8,~70,3
+210,Male,43,Engineer,7.8,3,5,Normal,70,None,Normal,7500~9999,High Intensity,7.5-8,~70,3
+211,Male,43,Engineer,7.7,3,5,Normal,70,None,Normal,7500~9999,High Intensity,7.5-8,~70,3
+212,Male,43,Engineer,7.8,3,5,Normal,70,None,Normal,7500~9999,High Intensity,7.5-8,~70,3
+213,Male,43,Engineer,7.8,3,5,Normal,70,None,Normal,7500~9999,High Intensity,7.5-8,~70,3
+214,Male,43,Engineer,7.8,3,5,Normal,70,None,Normal,7500~9999,High Intensity,7.5-8,~70,3
+215,Male,43,Engineer,7.8,3,5,Normal,70,None,Normal,7500~9999,High Intensity,7.5-8,~70,3
+216,Male,43,Engineer,7.8,3,5,Normal,70,None,Normal,7500~9999,High Intensity,7.5-8,~70,3
+217,Male,43,Engineer,7.8,3,5,Normal,70,None,Normal,7500~9999,High Intensity,7.5-8,~70,3
+218,Male,43,Engineer,7.8,3,5,Normal,70,None,Normal,7500~9999,High Intensity,7.5-8,~70,3
+219,Male,43,Engineer,7.8,3,5,Normal,70,Sleep Apnea,Normal,7500~9999,High Intensity,7.5-8,~70,3
+220,Male,43,Sales,6.5,2,7,Overweight,72,Sleep Apnea,Normal,5000~7499,Low Intensity,6-6.5,70-75,5
+221,Female,44,Other,6.6,2,4,Overweight,65,Insomnia,Hypertension,5000~7499,Low Intensity,6.5-7,~70,2
+222,Male,44,Sales,6.4,2,7,Overweight,72,Insomnia,Normal,5000~7499,Low Intensity,6-6.5,70-75,5
+223,Male,44,Sales,6.3,2,7,Overweight,72,Insomnia,Normal,5000~7499,Low Intensity,6-6.5,70-75,5
+224,Male,44,Sales,6.4,2,7,Overweight,72,Insomnia,Normal,5000~7499,Low Intensity,6-6.5,70-75,5
+225,Female,44,Other,6.6,2,4,Overweight,65,Insomnia,Hypertension,5000~7499,Low Intensity,6.5-7,~70,2
+226,Male,44,Sales,6.3,2,7,Overweight,72,Insomnia,Normal,5000~7499,Low Intensity,6-6.5,70-75,5
+227,Female,44,Other,6.6,2,4,Overweight,65,Insomnia,Hypertension,5000~7499,Low Intensity,6.5-7,~70,2
+228,Male,44,Sales,6.3,2,7,Overweight,72,Insomnia,Normal,5000~7499,Low Intensity,6-6.5,70-75,5
+229,Female,44,Other,6.6,2,4,Overweight,65,Insomnia,Hypertension,5000~7499,Low Intensity,6.5-7,~70,2
+230,Male,44,Sales,6.3,2,7,Overweight,72,Insomnia,Normal,5000~7499,Low Intensity,6-6.5,70-75,5
+231,Female,44,Other,6.6,2,4,Overweight,65,Insomnia,Hypertension,5000~7499,Low Intensity,6.5-7,~70,2
+232,Male,44,Sales,6.3,2,7,Overweight,72,Insomnia,Normal,5000~7499,Low Intensity,6-6.5,70-75,5
+233,Female,44,Other,6.6,2,4,Overweight,65,Insomnia,Hypertension,5000~7499,Low Intensity,6.5-7,~70,2
+234,Male,44,Sales,6.3,2,7,Overweight,72,Insomnia,Normal,5000~7499,Low Intensity,6-6.5,70-75,5
+235,Female,44,Other,6.6,2,4,Overweight,65,Insomnia,Hypertension,5000~7499,Low Intensity,6.5-7,~70,2
+236,Male,44,Sales,6.3,2,7,Overweight,72,Insomnia,Normal,5000~7499,Low Intensity,6-6.5,70-75,5
+237,Male,44,Sales,6.4,2,7,Overweight,72,Insomnia,Normal,5000~7499,Low Intensity,6-6.5,70-75,5
+238,Female,44,Other,6.5,2,4,Overweight,65,Insomnia,Hypertension,5000~7499,Low Intensity,6-6.5,~70,2
+239,Male,44,Sales,6.3,2,7,Overweight,72,Insomnia,Normal,5000~7499,Low Intensity,6-6.5,70-75,5
+240,Male,44,Sales,6.4,2,7,Overweight,72,Insomnia,Normal,5000~7499,Low Intensity,6-6.5,70-75,5
+241,Female,44,Other,6.5,2,4,Overweight,65,Insomnia,Hypertension,5000~7499,Low Intensity,6-6.5,~70,2
+242,Male,44,Sales,6.3,2,7,Overweight,72,Insomnia,Normal,5000~7499,Low Intensity,6-6.5,70-75,5
+243,Male,44,Sales,6.4,2,7,Overweight,72,Insomnia,Normal,5000~7499,Low Intensity,6-6.5,70-75,5
+244,Female,44,Other,6.5,2,4,Overweight,65,Insomnia,Hypertension,5000~7499,Low Intensity,6-6.5,~70,2
+245,Male,44,Sales,6.3,2,7,Overweight,72,Insomnia,Normal,5000~7499,Low Intensity,6-6.5,70-75,5
+246,Female,44,Other,6.5,2,4,Overweight,65,Insomnia,Hypertension,5000~7499,Low Intensity,6-6.5,~70,2
+247,Male,44,Sales,6.3,2,7,Overweight,72,Insomnia,Normal,5000~7499,Low Intensity,6-6.5,70-75,5
+248,Male,44,Engineer,6.8,2,7,Overweight,78,Insomnia,Normal,5000~7499,Low Intensity,6.5-7,75-80,5
+249,Male,44,Sales,6.4,2,7,Overweight,72,None,Normal,5000~7499,Low Intensity,6-6.5,70-75,5
+250,Male,44,Sales,6.5,2,7,Overweight,72,None,Normal,5000~7499,Low Intensity,6-6.5,70-75,5
+251,Female,45,Other,6.8,2,6,Overweight,65,Insomnia,Hypertension,5000~7499,Low Intensity,6.5-7,~70,4
+252,Female,45,Other,6.8,2,6,Overweight,65,Insomnia,Hypertension,5000~7499,Low Intensity,6.5-7,~70,4
+253,Female,45,Other,6.5,2,4,Overweight,65,Insomnia,Hypertension,5000~7499,Low Intensity,6-6.5,~70,2
+254,Female,45,Other,6.5,2,4,Overweight,65,Insomnia,Hypertension,5000~7499,Low Intensity,6-6.5,~70,2
+255,Female,45,Other,6.5,2,4,Overweight,65,Insomnia,Hypertension,5000~7499,Low Intensity,6-6.5,~70,2
+256,Female,45,Other,6.5,2,4,Overweight,65,Insomnia,Hypertension,5000~7499,Low Intensity,6-6.5,~70,2
+257,Female,45,Other,6.6,2,4,Overweight,65,Insomnia,Hypertension,5000~7499,Low Intensity,6.5-7,~70,2
+258,Female,45,Other,6.6,2,4,Overweight,65,Insomnia,Hypertension,5000~7499,Low Intensity,6.5-7,~70,2
+259,Female,45,Other,6.6,2,4,Overweight,65,Insomnia,Hypertension,5000~7499,Low Intensity,6.5-7,~70,2
+260,Female,45,Other,6.6,2,4,Overweight,65,Insomnia,Hypertension,5000~7499,Low Intensity,6.5-7,~70,2
+261,Female,45,Other,6.6,2,4,Overweight,65,Insomnia,Hypertension,5000~7499,Low Intensity,6.5-7,~70,2
+262,Female,45,Other,6.6,2,4,Overweight,65,None,Hypertension,5000~7499,Low Intensity,6.5-7,~70,2
+263,Female,45,Other,6.6,2,4,Overweight,65,None,Hypertension,5000~7499,Low Intensity,6.5-7,~70,2
+264,Female,45,Other,6.9,2,5,Overweight,75,None,Normal,5000~7499,Moderate Intensity,6.5-7,70-75,3
+265,Male,48,Medical,7.3,2,5,Obese,83,Insomnia,Hypertension,<5000,Moderate Intensity,7-7.5,80-85,3
+266,Female,48,Medical,5.9,2,8,Overweight,75,Sleep Apnea,Hypertension,>=10000,High Intensity,~6,70-75,6
+267,Male,48,Medical,7.3,2,5,Obese,83,Insomnia,Hypertension,<5000,Moderate Intensity,7-7.5,80-85,3
+268,Female,49,Medical,6.2,2,8,Overweight,75,None,Hypertension,>=10000,High Intensity,6-6.5,70-75,6
+269,Female,49,Medical,6.0,2,8,Overweight,75,Sleep Apnea,Hypertension,>=10000,High Intensity,~6,70-75,6
+270,Female,49,Medical,6.1,2,8,Overweight,75,Sleep Apnea,Hypertension,>=10000,High Intensity,6-6.5,70-75,6
+271,Female,49,Medical,6.1,2,8,Overweight,75,Sleep Apnea,Hypertension,>=10000,High Intensity,6-6.5,70-75,6
+272,Female,49,Medical,6.1,2,8,Overweight,75,Sleep Apnea,Hypertension,>=10000,High Intensity,6-6.5,70-75,6
+273,Female,49,Medical,6.1,2,8,Overweight,75,Sleep Apnea,Hypertension,>=10000,High Intensity,6-6.5,70-75,6
+274,Female,49,Medical,6.2,2,8,Overweight,75,Sleep Apnea,Hypertension,>=10000,High Intensity,6-6.5,70-75,6
+275,Female,49,Medical,6.2,2,8,Overweight,75,Sleep Apnea,Hypertension,>=10000,High Intensity,6-6.5,70-75,6
+276,Female,49,Medical,6.2,2,8,Overweight,75,Sleep Apnea,Hypertension,>=10000,High Intensity,6-6.5,70-75,6
+277,Male,49,Medical,8.1,3,3,Obese,86,Sleep Apnea,Hypertension,<5000,High Intensity,8~,85~,1
+278,Male,49,Medical,8.1,3,3,Obese,86,Sleep Apnea,Hypertension,<5000,High Intensity,8~,85~,1
+279,Female,50,Medical,6.1,2,8,Overweight,75,Insomnia,Hypertension,>=10000,High Intensity,6-6.5,70-75,6
+280,Female,50,Engineer,8.3,3,3,Normal,65,None,Normal,5000~7499,Low Intensity,8~,~70,1
+281,Female,50,Medical,6.0,2,8,Overweight,75,None,Hypertension,>=10000,High Intensity,~6,70-75,6
+282,Female,50,Medical,6.1,2,8,Overweight,75,Sleep Apnea,Hypertension,>=10000,High Intensity,6-6.5,70-75,6
+283,Female,50,Medical,6.0,2,8,Overweight,75,Sleep Apnea,Hypertension,>=10000,High Intensity,~6,70-75,6
+284,Female,50,Medical,6.0,2,8,Overweight,75,Sleep Apnea,Hypertension,>=10000,High Intensity,~6,70-75,6
+285,Female,50,Medical,6.0,2,8,Overweight,75,Sleep Apnea,Hypertension,>=10000,High Intensity,~6,70-75,6
+286,Female,50,Medical,6.0,2,8,Overweight,75,Sleep Apnea,Hypertension,>=10000,High Intensity,~6,70-75,6
+287,Female,50,Medical,6.0,2,8,Overweight,75,Sleep Apnea,Hypertension,>=10000,High Intensity,~6,70-75,6
+288,Female,50,Medical,6.0,2,8,Overweight,75,Sleep Apnea,Hypertension,>=10000,High Intensity,~6,70-75,6
+289,Female,50,Medical,6.0,2,8,Overweight,75,Sleep Apnea,Hypertension,>=10000,High Intensity,~6,70-75,6
+290,Female,50,Medical,6.1,2,8,Overweight,75,Sleep Apnea,Hypertension,>=10000,High Intensity,6-6.5,70-75,6
+291,Female,50,Medical,6.0,2,8,Overweight,75,Sleep Apnea,Hypertension,>=10000,High Intensity,~6,70-75,6
+292,Female,50,Medical,6.1,2,8,Overweight,75,Sleep Apnea,Hypertension,>=10000,High Intensity,6-6.5,70-75,6
+293,Female,50,Medical,6.1,2,8,Overweight,75,Sleep Apnea,Hypertension,>=10000,High Intensity,6-6.5,70-75,6
+294,Female,50,Medical,6.0,2,8,Overweight,75,Sleep Apnea,Hypertension,>=10000,High Intensity,~6,70-75,6
+295,Female,50,Medical,6.1,2,8,Overweight,75,Sleep Apnea,Hypertension,>=10000,High Intensity,6-6.5,70-75,6
+296,Female,50,Medical,6.0,2,8,Overweight,75,Sleep Apnea,Hypertension,>=10000,High Intensity,~6,70-75,6
+297,Female,50,Medical,6.1,2,8,Overweight,75,Sleep Apnea,Hypertension,>=10000,High Intensity,6-6.5,70-75,6
+298,Female,50,Medical,6.1,2,8,Overweight,75,Sleep Apnea,Hypertension,>=10000,High Intensity,6-6.5,70-75,6
+299,Female,51,Engineer,8.5,3,3,Normal,65,None,Normal,5000~7499,Low Intensity,8~,~70,1
+300,Female,51,Engineer,8.5,3,3,Normal,65,None,Normal,5000~7499,Low Intensity,8~,~70,1
+301,Female,51,Engineer,8.5,3,3,Normal,65,None,Normal,5000~7499,Low Intensity,8~,~70,1
+302,Female,51,Engineer,8.5,3,3,Normal,65,None,Normal,5000~7499,Low Intensity,8~,~70,1
+303,Female,51,Medical,7.1,2,6,Normal,72,None,Normal,5000~7499,Moderate Intensity,7-7.5,70-75,4
+304,Female,51,Medical,6.0,2,8,Overweight,75,Sleep Apnea,Hypertension,>=10000,High Intensity,~6,70-75,6
+305,Female,51,Medical,6.1,2,8,Overweight,75,Sleep Apnea,Hypertension,>=10000,High Intensity,6-6.5,70-75,6
+306,Female,51,Medical,6.1,2,8,Overweight,75,Sleep Apnea,Hypertension,>=10000,High Intensity,6-6.5,70-75,6
+307,Female,52,Other,6.5,2,7,Overweight,72,Insomnia,Normal,5000~7499,Low Intensity,6-6.5,70-75,5
+308,Female,52,Other,6.5,2,7,Overweight,72,Insomnia,Normal,5000~7499,Low Intensity,6-6.5,70-75,5
+309,Female,52,Other,6.6,2,7,Overweight,72,Insomnia,Normal,5000~7499,Low Intensity,6.5-7,70-75,5
+310,Female,52,Other,6.6,2,7,Overweight,72,Insomnia,Normal,5000~7499,Low Intensity,6.5-7,70-75,5
+311,Female,52,Other,6.6,2,7,Overweight,72,Insomnia,Normal,5000~7499,Low Intensity,6.5-7,70-75,5
+312,Female,52,Other,6.6,2,7,Overweight,72,Insomnia,Normal,5000~7499,Low Intensity,6.5-7,70-75,5
+313,Female,52,Engineer,8.4,3,3,Normal,65,None,Normal,5000~7499,Low Intensity,8~,~70,1
+314,Female,52,Engineer,8.4,3,3,Normal,65,None,Normal,5000~7499,Low Intensity,8~,~70,1
+315,Female,52,Engineer,8.4,3,3,Normal,65,None,Normal,5000~7499,Low Intensity,8~,~70,1
+316,Female,53,Engineer,8.3,3,3,Normal,65,Insomnia,Normal,5000~7499,Low Intensity,8~,~70,1
+317,Female,53,Engineer,8.5,3,3,Normal,65,None,Normal,5000~7499,Low Intensity,8~,~70,1
+318,Female,53,Engineer,8.5,3,3,Normal,65,None,Normal,5000~7499,Low Intensity,8~,~70,1
+319,Female,53,Engineer,8.4,3,3,Normal,65,None,Normal,5000~7499,Low Intensity,8~,~70,1
+320,Female,53,Engineer,8.4,3,3,Normal,65,None,Normal,5000~7499,Low Intensity,8~,~70,1
+321,Female,53,Engineer,8.5,3,3,Normal,65,None,Normal,5000~7499,Low Intensity,8~,~70,1
+322,Female,53,Engineer,8.4,3,3,Normal,65,None,Normal,5000~7499,Low Intensity,8~,~70,1
+323,Female,53,Engineer,8.4,3,3,Normal,65,None,Normal,5000~7499,Low Intensity,8~,~70,1
+324,Female,53,Engineer,8.5,3,3,Normal,65,None,Normal,5000~7499,Low Intensity,8~,~70,1
+325,Female,53,Engineer,8.3,3,3,Normal,65,None,Normal,5000~7499,Low Intensity,8~,~70,1
+326,Female,53,Engineer,8.5,3,3,Normal,65,None,Normal,5000~7499,Low Intensity,8~,~70,1
+327,Female,53,Engineer,8.3,3,3,Normal,65,None,Normal,5000~7499,Low Intensity,8~,~70,1
+328,Female,53,Engineer,8.5,3,3,Normal,65,None,Normal,5000~7499,Low Intensity,8~,~70,1
+329,Female,53,Engineer,8.3,3,3,Normal,65,None,Normal,5000~7499,Low Intensity,8~,~70,1
+330,Female,53,Engineer,8.5,3,3,Normal,65,None,Normal,5000~7499,Low Intensity,8~,~70,1
+331,Female,53,Engineer,8.5,3,3,Normal,65,None,Normal,5000~7499,Low Intensity,8~,~70,1
+332,Female,53,Engineer,8.4,3,3,Normal,65,None,Normal,5000~7499,Low Intensity,8~,~70,1
+333,Female,54,Engineer,8.4,3,3,Normal,65,None,Normal,5000~7499,Low Intensity,8~,~70,1
+334,Female,54,Engineer,8.4,3,3,Normal,65,None,Normal,5000~7499,Low Intensity,8~,~70,1
+335,Female,54,Engineer,8.4,3,3,Normal,65,None,Normal,5000~7499,Low Intensity,8~,~70,1
+336,Female,54,Engineer,8.4,3,3,Normal,65,None,Normal,5000~7499,Low Intensity,8~,~70,1
+337,Female,54,Engineer,8.4,3,3,Normal,65,None,Normal,5000~7499,Low Intensity,8~,~70,1
+338,Female,54,Engineer,8.4,3,3,Normal,65,None,Normal,5000~7499,Low Intensity,8~,~70,1
+339,Female,54,Engineer,8.5,3,3,Normal,65,None,Normal,5000~7499,Low Intensity,8~,~70,1
+340,Female,55,Medical,8.1,3,4,Overweight,72,Sleep Apnea,Hypertension,5000~7499,Moderate Intensity,8~,70-75,2
+341,Female,55,Medical,8.1,3,4,Overweight,72,Sleep Apnea,Hypertension,5000~7499,Moderate Intensity,8~,70-75,2
+342,Female,56,Medical,8.2,3,3,Normal,65,None,Optimal,>=10000,High Intensity,8~,~70,1
+343,Female,56,Medical,8.2,3,3,Normal,65,None,Optimal,>=10000,High Intensity,8~,~70,1
+344,Female,57,Medical,8.1,3,3,Overweight,68,None,Hypertension,5000~7499,Moderate Intensity,8~,~70,1
+345,Female,57,Medical,8.2,3,3,Overweight,68,Sleep Apnea,Hypertension,5000~7499,Moderate Intensity,8~,~70,1
+346,Female,57,Medical,8.2,3,3,Overweight,68,Sleep Apnea,Hypertension,5000~7499,Moderate Intensity,8~,~70,1
+347,Female,57,Medical,8.2,3,3,Overweight,68,Sleep Apnea,Hypertension,5000~7499,Moderate Intensity,8~,~70,1
+348,Female,57,Medical,8.2,3,3,Overweight,68,Sleep Apnea,Hypertension,5000~7499,Moderate Intensity,8~,~70,1
+349,Female,57,Medical,8.2,3,3,Overweight,68,Sleep Apnea,Hypertension,5000~7499,Moderate Intensity,8~,~70,1
+350,Female,57,Medical,8.1,3,3,Overweight,68,Sleep Apnea,Hypertension,5000~7499,Moderate Intensity,8~,~70,1
+351,Female,57,Medical,8.1,3,3,Overweight,68,Sleep Apnea,Hypertension,5000~7499,Moderate Intensity,8~,~70,1
+352,Female,57,Medical,8.1,3,3,Overweight,68,Sleep Apnea,Hypertension,5000~7499,Moderate Intensity,8~,~70,1
+353,Female,58,Medical,8.0,3,3,Overweight,68,Sleep Apnea,Hypertension,5000~7499,Moderate Intensity,7.5-8,~70,1
+354,Female,58,Medical,8.0,3,3,Overweight,68,Sleep Apnea,Hypertension,5000~7499,Moderate Intensity,7.5-8,~70,1
+355,Female,58,Medical,8.0,3,3,Overweight,68,Sleep Apnea,Hypertension,5000~7499,Moderate Intensity,7.5-8,~70,1
+356,Female,58,Medical,8.0,3,3,Overweight,68,Sleep Apnea,Hypertension,5000~7499,Moderate Intensity,7.5-8,~70,1
+357,Female,58,Medical,8.0,3,3,Overweight,68,Sleep Apnea,Hypertension,5000~7499,Moderate Intensity,7.5-8,~70,1
+358,Female,58,Medical,8.0,3,3,Overweight,68,Sleep Apnea,Hypertension,5000~7499,Moderate Intensity,7.5-8,~70,1
+359,Female,59,Medical,8.0,3,3,Overweight,68,None,Hypertension,5000~7499,Moderate Intensity,7.5-8,~70,1
+360,Female,59,Medical,8.1,3,3,Overweight,68,None,Hypertension,5000~7499,Moderate Intensity,8~,~70,1
+361,Female,59,Medical,8.2,3,3,Overweight,68,Sleep Apnea,Hypertension,5000~7499,Moderate Intensity,8~,~70,1
+362,Female,59,Medical,8.2,3,3,Overweight,68,Sleep Apnea,Hypertension,5000~7499,Moderate Intensity,8~,~70,1
+363,Female,59,Medical,8.2,3,3,Overweight,68,Sleep Apnea,Hypertension,5000~7499,Moderate Intensity,8~,~70,1
+364,Female,59,Medical,8.2,3,3,Overweight,68,Sleep Apnea,Hypertension,5000~7499,Moderate Intensity,8~,~70,1
+365,Female,59,Medical,8.0,3,3,Overweight,68,Sleep Apnea,Hypertension,5000~7499,Moderate Intensity,7.5-8,~70,1
+366,Female,59,Medical,8.0,3,3,Overweight,68,Sleep Apnea,Hypertension,5000~7499,Moderate Intensity,7.5-8,~70,1
+367,Female,59,Medical,8.1,3,3,Overweight,68,Sleep Apnea,Hypertension,5000~7499,Moderate Intensity,8~,~70,1
+368,Female,59,Medical,8.0,3,3,Overweight,68,Sleep Apnea,Hypertension,5000~7499,Moderate Intensity,7.5-8,~70,1
+369,Female,59,Medical,8.1,3,3,Overweight,68,Sleep Apnea,Hypertension,5000~7499,Moderate Intensity,8~,~70,1
+370,Female,59,Medical,8.1,3,3,Overweight,68,Sleep Apnea,Hypertension,5000~7499,Moderate Intensity,8~,~70,1
+371,Female,59,Medical,8.0,3,3,Overweight,68,Sleep Apnea,Hypertension,5000~7499,Moderate Intensity,7.5-8,~70,1
+372,Female,59,Medical,8.1,3,3,Overweight,68,Sleep Apnea,Hypertension,5000~7499,Moderate Intensity,8~,~70,1
+373,Female,59,Medical,8.1,3,3,Overweight,68,Sleep Apnea,Hypertension,5000~7499,Moderate Intensity,8~,~70,1
+374,Female,59,Medical,8.1,3,3,Overweight,68,Sleep Apnea,Hypertension,5000~7499,Moderate Intensity,8~,~70,1
