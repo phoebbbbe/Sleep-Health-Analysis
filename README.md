@@ -46,14 +46,14 @@ rawdata = pd.read_csv('Sleep_health_and_lifestyle_dataset.csv',thousands=',')
 rawdata.info()
 ```
 
-<img width="300" src="img/info.png">
+<img width="400" src="img/info.png">
 
 
 ```pyton
 rawdata.describe().T
 ```
 
-<img width="300" src="img/describe.png">
+<img width="400" src="img/describe.png">
 
 
 ```python
