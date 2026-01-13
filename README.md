@@ -46,13 +46,15 @@ rawdata = pd.read_csv('Sleep_health_and_lifestyle_dataset.csv',thousands=',')
 rawdata.info()
 ```
 
-![數據描述1](img/info.png)
+<img width="300" src="img/info.png">
+
 
 ```pyton
 rawdata.describe().T
 ```
 
-![數據描述2](img/describe.png)
+<img width="300" src="img/describe.png">
+
 
 ```python
 num_col=['Age','Sleep Duration','Quality of Sleep', 'Physical Activity Level', 'Stress Level','Heart Rate', 'Daily Steps','Blood Pressure']
@@ -72,7 +74,8 @@ plt.tight_layout()
 plt.show()
 ```
 
-![數值型單變量敘述統計](img/statistics.png)
+<img width="500" src="img/statistics.png">
+
 
 ```python
 categorical = ['Gender', 'Occupation', 'BMI Category', 'Sleep Disorder']
@@ -101,7 +104,8 @@ plt.tight_layout()
 plt.show()
 ```
 
-![類別型單變量敘述統計](img/statistics2.png)
+<img width="500" src="img/statistics2.png">
+
 
 ## 數據預處理
 
@@ -266,7 +270,7 @@ dataset['Occupation'].value_counts()
 dataset.drop(columns=['Blood_Pressure', 'Systolic', 'Diastolic', 'Daily_Steps', 'Physical_Activity_Level', 'Sleep_Quality_Group'], axis=1, inplace=True)
 ```
 
-![預處理前後對比](img/change.png)
+<img width="600" src="img/change.png">
 
 ## 數據探索
 
@@ -274,13 +278,15 @@ dataset.drop(columns=['Blood_Pressure', 'Systolic', 'Diastolic', 'Daily_Steps', 
 dataset.info()
 ```
 
-![預處理後數據描述](img/info2.png)
+<img width="400" src="img/info2.png">
+
 
 ```python
 dataset.describe()
 ```
 
-![預處理後數據描述2](img/describe2.png)
+<img width="400" src="img/describe2.png">
+
 
 ```python
 num_col = ['Age', 'Sleep_Duration', 'Stress_Level', 'Heart_Rate']
@@ -303,7 +309,8 @@ plt.tight_layout()
 plt.show()
 ```
 
-![預處理後數值型單變量敘述統計](img/statistics3.png)
+<img width="500" src="img/statistics3.png">
+
 
 ```python
 from pandas.api.types import CategoricalDtype
@@ -351,7 +358,9 @@ plt.tight_layout()
 plt.show()
 ```
 
-![預處理後類別型單變量敘述統計](img/statistics4.png)
+<img width="500" src="img/statistics4.png">
+
+
 
 ### 對類別型數據編碼
 
@@ -391,7 +400,8 @@ plt.xticks(rotation=30)
 plt.show()
 ```
 
-![相關性分析](img/corelation.png)
+<img width="600" src="img/corelation.png">
+
 
 從相關係數矩陣中發現與 Sleep Quality 相關係數絕對值較⼤的前六個變量，從⼤到⼩分別是 Stress Level、Sleep Duration、Heart Rate、BMI Category、Age、Daily Steps Group。其中 Sleep Duration 與 Sleep Quality 呈強烈正相關。
 
@@ -415,9 +425,10 @@ plt.ylabel('Stress Level', fontsize=12)
 plt.show()
 ```
 
-![多變量敘述統計1](img/statistics5.png)
+<img width="400" src="img/statistics5.png">
 
-![多變量敘述統計2](img/statistics6.png)
+<img width="400" src="img/statistics6.png">
+
 
 發現壓⼒程度越⼤，睡眠品質越差；⼼率越低，睡眠品質越⾼；壓⼒、⼼率與睡眠品質呈顯著負相關。
 
@@ -438,9 +449,11 @@ plt.ylabel('Count')
 plt.show()
 ```
 
-![多變量敘述統計3](img/statistics7.png)
+<img width="400" src="img/statistics7.png">
 
-![多變量敘述統計4](img/statistics8.png)
+
+<img width="400" src="img/statistics7.png">
+
 
 發現 BMI 落在正常範圍的群體，睡眠品質⾼的⼈較多；⽽ BMI 落在過重以上的群體，睡眠品質普通的⼈較多。每⽇步數達 7500 的群體，睡眠品質都偏⾼；⽽每⽇步數不到 5000 的群體，睡眠品質低的⼈較多。
 
@@ -474,7 +487,8 @@ plt.gca().invert_yaxis()
 plt.show()
 ```
 
-![特徵重要性分析1](img/featureimportance.png)
+<img width="400" src="img/featureimportance.png">
+
 
 從以上特徵分析中發現，相較於其他變量，顯著重要的特徵為 Stress Level 和 Sleep Duration。那對 Stress Level 最重要的特徵是什麼呢？
 
@@ -506,7 +520,7 @@ plt.gca().invert_yaxis()
 plt.show()
 ```
 
-![特徵重要性分析2](img/featureimportance2.png)
+<img width="400" src="img/featureimportance2.png">
 
 從以上特徵分析中發現，對 Stress Level 顯著重要的特徵為 Heart Rate。
 
