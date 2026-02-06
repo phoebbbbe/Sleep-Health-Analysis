@@ -9,7 +9,6 @@
 ## 資料來源
 
 資料集來自 Kaggle 公開資料集 **Sleep Health and Lifestyle Dataset**，**共 13 個欄位、374 筆樣本**。
-<img width="400" src="/img/kaggle.png">
 
 
 ### 變量說明
